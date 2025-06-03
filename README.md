@@ -118,7 +118,7 @@ If you're part of the Pykaso security team, please reach out for a full disclosu
 
 **Researcher:** Detective  
 **Email:** 0day@yin.sh 
-**Report Copy:** 
+**Report Copy:** https://yin.sh/repos/projects.php?folder=pykaso.ai-0day&file=README.md
 
 ---
 
