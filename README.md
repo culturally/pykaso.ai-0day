@@ -80,10 +80,9 @@ Screenshots have been captured to support this vulnerability report, including:
 - Account dashboard showing inflated credits after payment
 
 
-![ezgif-4186a00915f7c2](https://github.com/user-attachments/assets/8be7e244-7ce7-4138-a1c3-101cbe66600a)
-
-![ezgif-5462b69fdd67cf](https://github.com/user-attachments/assets/d60ff193-a99f-4685-9e14-2d2522154959)
-![transc](https://github.com/user-attachments/assets/f9151d2b-a866-46a2-8230-59b093fcebcd)
+![sniff](https://raw.githubusercontent.com/culturally/pykaso.ai-0day/refs/heads/main/img/mitmproxysniff.png?token=GHSAT0AAAAAADFBENU3NKKGJKA6HQ44KZMO2CBVGVA)
+![Invoice](https://raw.githubusercontent.com/culturally/pykaso.ai-0day/refs/heads/main/img/invoice.png?token=GHSAT0AAAAAADFBENU24DED52GVSYBDA3LS2CBVGXQ)
+![transc](https://raw.githubusercontent.com/culturally/pykaso.ai-0day/refs/heads/main/img/tranhistory.png?token=GHSAT0AAAAAADFBENU35DHSJ7EZ3NAGVLWU2CBVFYQ)
 
 
 ---
